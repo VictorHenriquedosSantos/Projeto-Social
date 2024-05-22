@@ -14,9 +14,22 @@ html, body {
 body {
     background: black url('../imagens/fundo-madeira.jpg') top center no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 main {
     position: relative;
     height: 100vh;
+}
+
+section#telefone {
+    background:url('../imagens/frame-iphone.png') no-repeat;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    height: 627px;
+    width: 311px;
 }
