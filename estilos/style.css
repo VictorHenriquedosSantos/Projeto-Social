@@ -31,17 +31,17 @@ section#telefone {
     transform: translate(-50%, -50%);
 
     height: 627px;
-    width: 311px;
+    width: 310px;
 }
 
 iframe#tela {
     position: relative;
 
-    top: 80px;
+    top: 79px;
     left: 22px;
 
-    height: 468px;
-    width: 266px;
+    height: 469px;
+    width: 265px;
 }
 
 section#redes-sociais {
